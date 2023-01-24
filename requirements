@@ -1,5 +1,8 @@
-io
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+transformers
+torch
+pytest
+httpx
 streamlit
-numpy
-pipeline
-pip
